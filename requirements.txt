@@ -17,5 +17,5 @@ seaborn==0.10.1
 six==1.15.0               # via cycler, python-dateutil
 cxroots==1.1.10
 sympy==1.7.1
-ipywidgets==7.6.3
+ipywidgets==8.0.0a4
 jupyterthemes==0.20.0
